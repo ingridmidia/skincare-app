@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "my-app",
-    "slug": "my-app",
+    "name": "skincare-app",
+    "slug": "skincare-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "skincareapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
